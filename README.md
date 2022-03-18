@@ -10,3 +10,6 @@
 
 <opencv_exam>
 OPENCV 실습 프로그램 진행중
+
+<minecraft_exam>
+python으로 만들어보는 마인크래프트
